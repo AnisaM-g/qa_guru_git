@@ -3,4 +3,7 @@ public class HelloWordTest {
         System.out.println("Hello World!");
     }
 
+    private static String getMessage(){
+        return "Hello qa!";
+    }
 }
